@@ -1,3 +1,19 @@
-body{
-    background-image: ;
+.e-body {
+    background-image: url("kepek_eyiptom/egyiptomihatter.jpg");
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
+    /* font-fami ; */
+    /* font-fami ; */
+    /* font-fami ; */
+    font-family: Arial, Helvetica, sans-serif ;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ; */
+    
+}
+
+.e-h1 {
+    text-align: center;
+    /* padding: 0; */
+    /* margin: auto; */
 }
