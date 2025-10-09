@@ -145,10 +145,10 @@
 
 .a-vonal{
     border: none;
-    height: 1px;
+    height: 0.01rem;
     /* margin: 5px; */
     background-color: rgb(131, 133, 131);
-    color: gray;
+    /* color: gray; */
 }
 
 .a-h2-left {
