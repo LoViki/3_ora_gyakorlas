@@ -1,5 +1,5 @@
 html{
-    background-image: url("kepek_eyiptom/egyiptomihatter.jpg");
+    background-image: url("kepek_egyiptom/egyiptomihatter.jpg");
     /* background-image: url("kepek_autok/auto1_resize.jpg"); */
 }
 
@@ -14,14 +14,16 @@ html{
     /* font-fami ; */
     font-family: Arial, Helvetica, sans-serif ;
     font-size: 0.8rem;
-    background-color: rgb(225, 190, 101);
+    background-color: rgb(221, 189, 107);
     width: 600px;
-    height: 800px;
+    height: auto;
     /* text-align: center; */
     margin: auto;
     /* col; */
     /* col; */
     color: rgb(187, 22, 55);
+    padding: 0.5rem;
+    margin-top: 1rem;
     /* color: ; */
     /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ; */
     
@@ -33,7 +35,8 @@ html{
 
 .e-h1 {
     text-align: center;
-    padding-top: 2rem;
+    /* padding-top: 0; */
+    /* padding-block: auto; */
     letter-spacing: 5px;
     /* align-items: center; */
     /* padding: 0; */
@@ -43,7 +46,7 @@ html{
 .vonal{
     border: none;
     height: 1px;
-    margin: 5px;
+    /* margin: 5px; */
     background-color: rgb(187, 22, 55);
 }
 
@@ -57,4 +60,22 @@ html{
 .e-p{
     color: brown;
     text-align: justify;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.e-img-right{
+    float: right;
+    padding: 0.4rem;
+    border: dashed 1px;
+    margin: 0.6rem;
+    margin-top: 0;
+}
+
+.e-img-left{
+    float: left;
+    padding: 0.4rem;
+    border: dashed 1px;
+    margin: 0.6rem;
+    margin-top: 0;
 }
