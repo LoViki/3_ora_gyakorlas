@@ -1,5 +1,10 @@
-.e-body {
+html{
     background-image: url("kepek_eyiptom/egyiptomihatter.jpg");
+    /* background-image: url("kepek_autok/auto1_resize.jpg"); */
+}
+
+.e-body {
+    /* background-image: url("kepek_eyiptom/egyiptomihatter.jpg"); */
     /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
     /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
     /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
@@ -8,6 +13,11 @@
     /* font-fami ; */
     /* font-fami ; */
     font-family: Arial, Helvetica, sans-serif ;
+    background-color: rgb(204, 176, 106);
+    width: 800px;
+    /* text-align: center; */
+    margin: auto;
+    height: 100vw;
     /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ; */
     
 }
@@ -16,4 +26,8 @@
     text-align: center;
     /* padding: 0; */
     /* margin: auto; */
+}
+
+.e-p{
+    color: brown;
 }
