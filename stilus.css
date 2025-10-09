@@ -1,4 +1,9 @@
-html{
+
+/* ------------------------------------------- */
+/* -----------------EGYIPTOM------------------ */
+/* ------------------------------------------- */
+
+.e-html{
     background-image: url("kepek_egyiptom/egyiptomihatter.jpg");
     /* background-image: url("kepek_autok/auto1_resize.jpg"); */
 }
@@ -43,7 +48,7 @@ html{
     /* margin: auto; */
 }
 
-.vonal{
+.e-vonal{
     border: none;
     height: 1px;
     /* margin: 5px; */
@@ -78,4 +83,115 @@ html{
     border: dashed 1px;
     margin: 0.6rem;
     margin-top: 0;
+}
+
+/* ------------------------------------------- */
+/* -----------------AUTÓK--------------------- */
+/* ------------------------------------------- */
+
+.a-html{
+    background-color: midnightblue;
+    /* background-image: url("kepek_egyiptom/egyiptomihatter.jpg"); */
+    /* background-image: url("kepek_autok/auto1_resize.jpg"); */
+}
+
+.a-body {
+    /* background-image: url("kepek_eyiptom/egyiptomihatter.jpg"); */
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
+    /* font-fami ; */
+    /* font-fami ; */
+    /* font-fami ; */
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 0.8rem;
+    background-color: lightblue;
+    width: 650px;
+    height: auto;
+    /* text-align: center; */
+    margin: auto;
+    /* col; */
+    /* col; */
+    color: midnightblue;
+    padding: 0.5rem;
+    margin-top: 1rem;
+    /* color: ; */
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ; */
+    
+}
+
+/* h1, h2{
+    letter-spacing: 5px;
+} */
+
+.a-div{
+    /* padding: 0rem; */
+    padding-bottom: 20px;
+}
+
+
+.a-h1 {
+    text-align: center;
+    /* padding-top: 0; */
+    /* padding-block: auto; */
+    /* letter-spacing: 5px; */
+    /* align-items: center; */
+    /* padding: 0; */
+    /* margin: auto; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+.a-vonal{
+    border: none;
+    height: 1px;
+    /* margin: 5px; */
+    background-color: rgb(131, 133, 131);
+    color: gray;
+}
+
+.a-h2-left {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    /* letter-spacing: 2px; */
+    /* padding: 0; */
+    /* margin: auto; */
+}
+
+.a-h2-right {
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    /* letter-spacing: 2px; */
+    /* padding: 0; */
+    /* margin: auto; */
+}
+
+.a-p{
+    /* color: brown; */
+    text-align: justify;
+    padding-top: 0.5rem;
+    /* padding-bottom: 1rem; */
+}
+
+.a-img-right{
+    float: right;
+    /* padding: 0.4rem; */
+    /* border: dashed 1px; */
+    /* margin: 0.4rem;
+    margin-top: 0;
+    margin-bottom: 0; */
+    padding-left: 0.5rem;
+    /* margin-bottom: 0rem; */
+}
+
+.a-img-left{
+    float: left;
+    /* padding: 0.4rem; */
+    /* border: dashed 1px; */
+    /* margin: 0.4rem;
+    margin-top: 0; */
+    padding-right: 0.5rem;
 }
